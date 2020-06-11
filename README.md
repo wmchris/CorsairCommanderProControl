@@ -6,6 +6,7 @@ compile for mac
 create patch script  
 
 ```
+brew install hidapi
 mount -uw /
 cd /usr/libexec
 mv ioupsd ioupsd.ORIG
